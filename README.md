@@ -1,5 +1,6 @@
 # CCC_code
-# Created by Aaron Merchant
+Created by Aaron Merchant
+
 A list and log of all the CCC/Canadian Computing Competition code I have completed.
 
 I began to work on these problems in early Grade 10.
