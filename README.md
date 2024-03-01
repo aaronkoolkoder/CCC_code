@@ -8,7 +8,7 @@ I used python for all of them.
 
 These questions are located at https://cemc.uwaterloo.ca/ and https://dmoj.ca/
 
-You can find me at aaronmerchant08@gmail.com or https://dmoj.ca/user/aaronkoolkid where i submit the questions
+You can find me at aaronmerchant08@gmail.com or https://dmoj.ca/user/aaronkoolkid where I submit the questions
 
 # Info about the difficulty of questions
 Junior Competition
