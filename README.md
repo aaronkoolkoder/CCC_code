@@ -10,24 +10,18 @@ You can find me at aaronmerchant08@gmail.com or https://dmoj.ca/user/aaronkoolki
 
 #Info about the difficulty of questions
 Junior Competition
-1 and 2	Straightforward *
+1 and 2	Straightforward
 (e.g. basic loops and conditions)
-3 and 4	More challenging **
+3 and 4	More challenging
 (e.g. some combination of loops, conditions and counting)
-5	Some advanced material ***
+5	Some advanced material
 (e.g. recursion, two-dimensional arrays, efficient/clever algorithms)
 
 Senior Competition
-1 and 2	Basic algorithms **
+1 and 2	Basic algorithms
 (e.g. sorting, searching)
-3 and 4	More advanced algorithms ***/****
+3 and 4	More advanced algorithms
 (e.g. careful counting, some mathematical reasoning)
-5	IOI level question ****
-
-*	an average grade 11 student should get this
-**	an average grade 12 student should get this
-***	a good grade 12 student MIGHT get this
-****	the best grade 12 student MIGHT get this if given enough time
-*****	the teacher will get this after many days, or maybe never :-)
+5	IOI level question
 
 (Taken from https://mmhs.ca/ccc/index.htm and https://cemc.uwaterloo.ca/contests/computing/details.html)
